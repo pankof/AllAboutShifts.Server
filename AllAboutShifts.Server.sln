@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllAboutShifts.WebApi", "AllAboutShifts.WebApi\AllAboutShifts.WebApi.csproj", "{C506AB05-B1D3-4112-A126-31F22EAEDD43}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllAboutShifts.WebApi", "AllAboutShifts.WebApi\AllAboutShifts.WebApi.csproj", "{D8C0ED54-2AC5-4F9D-A9D6-3C06A2C39FEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C506AB05-B1D3-4112-A126-31F22EAEDD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C506AB05-B1D3-4112-A126-31F22EAEDD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C506AB05-B1D3-4112-A126-31F22EAEDD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C506AB05-B1D3-4112-A126-31F22EAEDD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C0ED54-2AC5-4F9D-A9D6-3C06A2C39FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C0ED54-2AC5-4F9D-A9D6-3C06A2C39FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C0ED54-2AC5-4F9D-A9D6-3C06A2C39FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C0ED54-2AC5-4F9D-A9D6-3C06A2C39FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D57BC2EC-6056-4569-8D19-F06429648278}
+		SolutionGuid = {257B688E-8630-4D37-AB43-C857AFFD026A}
 	EndGlobalSection
 EndGlobal
